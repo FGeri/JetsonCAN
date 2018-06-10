@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CAN_sandbox.dir/main.cpp.o CMakeFiles/CAN_sandbox.dir/src/jetson_can_interface.cpp.o  -o CAN_sandbox 

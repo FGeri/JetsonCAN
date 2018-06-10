@@ -1,0 +1,2 @@
+/usr/bin/ar qc libJetson_CAN_interface.a  CMakeFiles/Jetson_CAN_interface.dir/src/jetson_can_interface.cpp.o
+/usr/bin/ranlib libJetson_CAN_interface.a
