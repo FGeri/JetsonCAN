@@ -23,7 +23,7 @@
 
 
 can_interface::can_interface() {
-    char* ifname;
+    char ifname[10];
     strcpy(ifname,DEFAULT_CAN_INTERFACE);
 
     s = socket(PF_CAN, SOCK_DGRAM, CAN_BCM);
